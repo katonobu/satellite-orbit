@@ -3,4 +3,6 @@ notebooks/cifar_net.pth
 .ipynb_checkpoints/
 .venv
 notebooks/*.txt
+notebooks/*.svg
+notebooks/*.png
 **/__pycache__
